@@ -1,0 +1,5 @@
+{
+  "name": "KarokTube",
+  "description": "A modern karaoke web application with AI integrations, local file browsing, and synchronized lyrics.",
+  "requestFramePermissions": []
+}
